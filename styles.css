@@ -1,0 +1,149 @@
+/* Reset des styles par défaut */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style du corps */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style de la barre de navigation */
+nav {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff; /* Couleur du texte */
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+
+nav ul li a:hover {
+    background-color: #999; /* Couleur de fond au survol */
+}
+
+/* Style du contenu principal */
+main {
+    padding: 20px;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+/* Styles pour les différents éléments de texte */
+h1, h2, h3 {
+    color: #FF5733; /* Rouge orangé */
+}
+
+p {
+    color: #0066CC; /* Bleu clair */
+}
+
+/* Styles pour les éléments de fond */
+header {
+    background-color: #E6E6E6; /* Gris clair */
+}
+
+footer {
+    background-color: #FFCC66; /* Jaune clair */
+}
+
+/* Styles pour les liens */
+a {
+    color: #0066CC; /* Bleu clair */
+}
+
+/* Autres styles */
+nav ul {
+    background-color: #66CC99; /* Vert clair */
+}
+
+/* Styles pour le conteneur de l'image et du titre */
+.image-container {
+    text-align: center; /* Centre le contenu horizontalement */
+}
+/* Styles pour l'image */
+.image-container img {
+    width: 40%; /* Ajuste la largeur de l'image */
+    display: block;
+    margin: 0 auto; /* Centre l'image horizontalement */
+}
+
+/* Styles pour le titre */
+.image-container h3 {
+    margin-top: 10px; /* Ajoute un peu d'espace entre l'image et le titre */
+}
+
+/* Style pour l'élément audio */
+audio {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* Style pour l'élément vidéo */
+video {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Styles pour les paragraphes */
+p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+    color: #333; /* Couleur du texte */
+}
+/* Styles pour la liste */
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+/* Styles pour les éléments de liste */
+li {
+    margin-bottom: 10px;
+}
+
+/* Styles pour les titres de liste */
+strong {
+    font-weight: bold;
+    color: #0066CC; /* Couleur bleue */
+}p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+    color: #0066CC; /* Couleur du texte en bleu */
+}
